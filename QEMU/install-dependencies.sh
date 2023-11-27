@@ -15,7 +15,7 @@ pip install sphinx
 cd ~/Downloads/
 git clone https://github.com/ninja-build/ninja.git && cd ninja
 ./configure.py --bootstrap
-cp ninja /usr/bin/
+sudo cp ninja /usr/bin/
 
 cd ~/Downloads/
 wget https://download.qemu.org/qemu-8.2.0-rc0.tar.xz
