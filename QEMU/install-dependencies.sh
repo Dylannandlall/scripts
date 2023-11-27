@@ -17,7 +17,7 @@ git clone https://github.com/ninja-build/ninja.git && cd ninja
 ./configure.py --bootstrap
 cp ninja /usr/bin/
 
-
+cd ~/Downloads/
 wget https://download.qemu.org/qemu-8.2.0-rc0.tar.xz
 tar xvJf qemu-8.2.0-rc0.tar.xz
 cd qemu-8.2.0-rc0
