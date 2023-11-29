@@ -6,6 +6,10 @@ sudo apt-get install python3-venv \
 	python3-pip \
 	libglib2.0-dev \
 	libpixman-1-dev \
+	libcairo2-dev \
+	libpango1.0-dev \
+	libjpeg8-dev \
+	libgif-dev \
 	flex \
 	bison \
 	-y \
