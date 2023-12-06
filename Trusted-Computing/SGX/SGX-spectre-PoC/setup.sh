@@ -8,6 +8,8 @@ sudo apt-get install -y \
     build-essential \
     python-is-python3 \
     vim \
+    git \
+
 
 cd ~/Downloads
 wget https://download.01.org/intel-sgx/sgx-linux/2.14/distro/ubuntu20.04-server/sgx_linux_x64_sdk_2.14.100.2.bin
