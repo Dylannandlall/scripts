@@ -1,6 +1,6 @@
 #!/bin/bash
 # Ubuntu 20.04
-# Install script to set up SGX environment 
+# Install script to set up SGX environment for spectre attack found at https://github.com/lsds/spectre-attack-sgx
 
 sudo apt-get install -y \
     build-essential \
