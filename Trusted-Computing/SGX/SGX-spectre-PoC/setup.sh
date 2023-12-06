@@ -20,7 +20,6 @@ chmod a+x sgx_linux_x64_sdk_2.14.100.2.bin
 source /opt/intel/sgxsdk/environment
 
 mkdir ~/testing-sgx && cd ~/testing-sgx
-git clone https://github.com/lsds/spectre-attack-sgx && cd SGXSpectre
-
+git clone https://github.com/lsds/spectre-attack-sgx && cd spectre-attack-sgx/SGXSpectre
 
 
